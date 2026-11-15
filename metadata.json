@@ -1,0 +1,6 @@
+{
+  "name": "Passo Livre",
+  "description": "Jogo de caminhada em tempo real pelo Google Maps e Street View com visão em primeira e terceira pessoa.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
